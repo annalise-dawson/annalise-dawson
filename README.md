@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 About Me
+I'm a full-stack developer with a background in marketing and a passion for building things that make life easier. My journey into tech began when I realised that many of the problems I faced with marketing tools could be solved with code.
+
+I recently graduated from Dev Academy, where I learned practical, hands-on skills in full-stack development using JavaScript, TypeScript, React, and REST APIs. I thrive on collaboration, love a good challenge, and bring empathy, curiosity, and a strong sense of integrity to every project I work on.
 
 <!--
 **annalise-dawson/annalise-dawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
