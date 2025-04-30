@@ -6,12 +6,20 @@ I recently graduated from Dev Academy, where I learned practical, hands-on skill
 ## Projects
 
 #### Sourdough Scheduler 🥖
-A collaborative app to help sourdough bakers schedule their baking process. You can select what time of the day you want to start baking and it will show what time to do the next steps. Built with React, Express, SQLite3, and Knex, using TypeScript, this project deepened my understanding of time-based calculations and how structure a full-stack app from backend to frontend.
+After spending days trying to make a sourdough loaf and ending up with a gummy mess I built this app to help bakers like me stay on track. Sourdough Scheduler lets users pick a start time, then maps out the rest of the baking process step by step.
+
+Built with React, TypeScript, Express, Knex, and SQLite3, this project deepened my understanding of time-based logic, database setup, and structuring a full-stack app from backend to frontend.
+
+I’m still working on adding more features, including a checkbox to mark steps as complete and an expandable details section for each step. Eventually, I'd also like to make it work on mobile so it can send notifications at each step. I'm looking into React Native to achieve this.
 
 [🔗 GitHub Repo](https://github.com/annalise-dawson/sourdough-schedule)
 
 #### Take It Away Ernie 🧙‍♂️
-A fun full-stack adventure built with a team at Dev Academy. Players choose a wizarding world destination and magical transport, face a random encounter on their journey, and receive a collectible ticket for their wizarding wallet. Developed using React, Express, SQLite3, and Auth0 for authentication. I helped build the wallet feature and arrival page, and along the way I learned how to work with dynamic content, pass props between components, and send data to the database.
+A fun full-stack adventure built with a team at Dev Academy for our final project. Players choose a wizarding world destination and magical transport, face a random encounter on their journey, and receive a collectible ticket for their wizarding wallet.
+
+We used React, Express, SQLite3, and Auth0 for authentication. Through this project, I learned how to work with dynamic content, pass props between components, and send user-generated data to a database.
+
+One key takeaway: testing is essential. Since the game included 20-second-long encounter animations, manually testing each flow became very time-consuming. It taught me the value of writing good tests early.
 
 [🔗 Webiste link](https://take-it-away-ernie.devacademy.nz/)
 
