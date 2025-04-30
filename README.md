@@ -10,7 +10,7 @@ A collaborative app to help sourdough bakers schedule their baking process. You 
 
 [🔗 GitHub Repo](https://github.com/annalise-dawson/sourdough-schedule)
 
-##🧙‍♂️ Take It Away, Ernie
+### 🧙‍♂️ Take It Away, Ernie
 A fun full-stack adventure built with a team at Dev Academy. Players choose a wizarding world destination and magical transport, face a random encounter on their journey, and receive a collectible ticket for their wizarding wallet. Developed using React, Express, SQLite3, and Auth0 for authentication. I helped build the wallet feature and arrival page, and along the way I learned how to work with dynamic content, pass props between components, and send data to the database.
 
 [🔗 GitHub Repo](https://github.com/annalise-dawson/sourdough-schedule)
