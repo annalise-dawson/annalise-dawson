@@ -17,3 +17,4 @@ A fun full-stack adventure built with a team at Dev Academy. Players choose a wi
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/annalise-dawson-a8a750211/)
+- [Download my CV](./Annalise's CV.pdf)
