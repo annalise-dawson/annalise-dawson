@@ -15,7 +15,7 @@ I’m still working on adding more features, including a checkbox to mark steps 
 [🔗 GitHub Repo](https://github.com/annalise-dawson/sourdough-schedule)
 
 #### Take It Away Ernie 🧙‍♂️
-A fun full-stack adventure built with a team at Dev Academy for our final project. Players choose a wizarding world destination and magical transport, face a random encounter on their journey, and receive a collectible ticket for their wizarding wallet.
+A fun full-stack app built with a team at Dev Academy for our final project. Players choose a wizarding world destination and magical transport, face a random encounter on their journey, and receive a collectible ticket for their wizarding wallet.
 
 We used React, Express, SQLite3, and Auth0 for authentication. Through this project, I learned how to work with dynamic content, pass props between components, and send user-generated data to a database.
 
