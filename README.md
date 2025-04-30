@@ -1,9 +1,9 @@
-## 👋 About Me
+## About Me
 I'm a full-stack developer with a background in marketing and a passion for building things that make life easier. My journey into tech began when I realised that many of the problems I faced with marketing tools could be solved with code.
 
 I recently graduated from Dev Academy, where I learned practical, hands-on skills in full-stack development using JavaScript, TypeScript, React, and REST APIs. I thrive on collaboration, love a good challenge, and bring empathy, curiosity, and a strong sense of integrity to every project I work on.
 
-## 🚀 Projects
+## Projects
 
 ### 🥖 Sourdough Scheduler
 A collaborative app to help sourdough bakers schedule their baking process. You can select what time of the day you want to start baking and it will show what time to do the next steps. Built with React, Express, SQLite3, and Knex, using TypeScript, this project deepened my understanding of time-based calculations and how structure a full-stack app from backend to frontend.
@@ -15,5 +15,5 @@ A fun full-stack adventure built with a team at Dev Academy. Players choose a wi
 
 [🔗 Webiste link](https://take-it-away-ernie.devacademy.nz/)
 
-## 📫 Let's Connect
+## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/annalise-dawson-a8a750211/)
