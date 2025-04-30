@@ -3,17 +3,17 @@ I'm a full-stack developer with a background in marketing and a passion for buil
 
 I recently graduated from Dev Academy, where I learned practical, hands-on skills in full-stack development using JavaScript, TypeScript, React, and REST APIs. I thrive on collaboration, love a good challenge, and bring empathy, curiosity, and a strong sense of integrity to every project I work on.
 
-<!--
-**annalise-dawson/annalise-dawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
 
-Here are some ideas to get you started:
+### 🥖 Sourdough Scheduler
+A collaborative app to help sourdough bakers schedule their baking process. You can select what time of the day you want to start baking and it will show what time to do the next steps. Built with React, Express, SQLite3, and Knex, using TypeScript, this project deepened my understanding of time-based calculations and how structure a full-stack app from backend to frontend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[🔗 GitHub Repo](https://github.com/annalise-dawson/sourdough-schedule)
+
+##🧙‍♂️ Take It Away, Ernie
+A fun full-stack adventure built with a team at Dev Academy. Players choose a wizarding world destination and magical transport, face a random encounter on their journey, and receive a collectible ticket for their wizarding wallet. Developed using React, Express, SQLite3, and Auth0 for authentication. I helped build the wallet feature and arrival page, and along the way I learned how to work with dynamic content, pass props between components, and send data to the database.
+
+[🔗 GitHub Repo](https://github.com/annalise-dawson/sourdough-schedule)
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/annalise-dawson-a8a750211/)
