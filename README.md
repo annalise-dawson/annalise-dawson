@@ -1,7 +1,7 @@
 ## About Me
 I'm a full-stack developer with a background in marketing and a passion for building things that make life easier. My journey into tech began when I realised that many of the problems I faced with marketing tools could be solved with code.
 
-I recently graduated from Dev Academy, where I learned practical, hands-on skills in full-stack development using JavaScript, TypeScript, React, and REST APIs. I thrive on collaboration, love a good challenge, and bring empathy, curiosity, and a strong sense of integrity to every project I work on.
+I recently graduated from Dev Academy, where I learned practical, hands-on skills in full-stack development using JavaScript, TypeScript, React, and REST APIs. I thrive on collaboration, love a good challenge, and bring empathy, curiosity, and integrity to every project I work on.
 
 ## Projects
 
@@ -10,12 +10,12 @@ After spending days trying to make a sourdough loaf and ending up with a gummy m
 
 Built with React, TypeScript, Express, Knex, and SQLite3, this project deepened my understanding of time-based logic, database setup, and structuring a full-stack app from backend to frontend.
 
-I’m still working on adding more features, including a checkbox to mark steps as complete and an expandable details section for each step. Eventually, I'd also like to make it work on mobile so it can send notifications at each step. I'm looking into React Native to achieve this.
+Eventually, I'd like to turn it into a mobile app so it can send notifications at each step. I'm looking into React Native to achieve this.
 
 [🔗 GitHub Repo](https://github.com/annalise-dawson/sourdough-schedule)
 
 #### Take It Away Ernie 🧙‍♂️
-A fun full-stack app built with a team at Dev Academy for our final project. Players choose a wizarding world destination and magical transport, face a random encounter on their journey, and receive a collectible ticket for their wizarding wallet.
+A full-stack app built with a team at Dev Academy for our final project. Players choose a wizarding world destination and magical transport, face a random encounter on their journey, and receive a collectible ticket for their wizarding wallet.
 
 We used React, Express, SQLite3, and Auth0 for authentication. Through this project, I learned how to work with dynamic content, pass props between components, and send user-generated data to a database.
 
@@ -25,4 +25,3 @@ One key takeaway: testing is essential. Since the game included 20-second-long e
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/annalise-dawson-a8a750211/)
-- [Download my CV](./annalise-dawson-cv.pdf)
